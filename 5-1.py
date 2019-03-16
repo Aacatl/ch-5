@@ -31,9 +31,26 @@ requested_toppings = ['mushrooms','onions','pineapple']
 'pepperoni' in requested_toppings
 
 #Conditional Tests
+#1
 guitar = 'fender'
 print("does car == 'fender'? I predict True")
 print(guitar == 'fender')
 
 print("\nDoes car == 'yamaha'? I predict False.")
 print(guitar == 'yamaha')
+#2
+car = 'honda'
+print(car == 'honda')
+print(car == 'toyota')
+#3
+ISP = 'spectrum'
+print(ISP == 'spectrum')
+print(ISP == 'verizon')
+#4
+Speakers = 'bose'
+print(Speakers == 'bose')
+print(Speakers == 'audio-technica')
+#5
+tv_Monitors = 'samsung'
+print(tv_Monitors == 'samsung')
+print(tv_Monitors == 'sony')
